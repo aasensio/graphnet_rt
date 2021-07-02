@@ -27,6 +27,9 @@ This is a computationally heavy procedure that is MPI parallelized. It will gene
 few files containing temperature stratifications, column mass and optical depths, as
 well as departure coefficients.
 
+Some precomputed database files obtained by randomly perturbing the FAL-C atmospheric model
+can be found [here](https://cloud.iac.es/index.php/s/Moc3aaTyrkDD6b9)
+
 ## Graphnet training
 
 The configuration of the Graphnet model is tuned with a configuration file, that
